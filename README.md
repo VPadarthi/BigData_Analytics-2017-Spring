@@ -9,3 +9,5 @@ LAB - 3 : https://github.com/vikeshpadarthi/BigData_Analytics-2017-Spring/wiki/L
 LAB -4 : https://github.com/vikeshpadarthi/BigData_Analytics-2017-Spring/wiki/Lab-4
 
 LAB - 05 : https://github.com/vikeshpadarthi/BigData_Analytics-2017-Spring/wiki/Lab-05
+
+LAB -06: https://github.com/vikeshpadarthi/BigData_Analytics-2017-Spring/wiki/LAB-06
