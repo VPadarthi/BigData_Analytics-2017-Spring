@@ -16,4 +16,4 @@ LAB-7:  https://github.com/vikeshpadarthi/BigData_Analytics-2017-Spring/wiki/Lab
 
 LAB-8: https://github.com/vikeshpadarthi/BigData_Analytics-2017-Spring/wiki/LAB-8
 
-lab-9: https://github.com/vikeshpadarthi/BigData_Analytics-2017-Spring/wiki/Lab-9
+LAB-9: https://github.com/vikeshpadarthi/BigData_Analytics-2017-Spring/wiki/Lab-9
